@@ -1,30 +1,26 @@
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
-
-![image](https://github.com/deanp04/tenzies-app/assets/127463309/1f5238e5-1637-467e-830c-f6479a10c7be)
+Here's a react app I built to play one of my favorite dice games, Tenzie! How fast can you roll to get all dice the same?!
 
 **Link to project:** https://tenzies-react-patterson.netlify.app/ 
 
+![image](https://github.com/deanp04/tenzies-app/assets/127463309/1f5238e5-1637-467e-830c-f6479a10c7be)
+
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, React, 
+**Tech used:** HTML, CSS, JavaScript, React
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+In this project, I utilized React's useState and useEffect hooks to manage the game's state and logic efficiently. To enhance the user experience, I employed CSS to display real dots on the dice for a visually engaging interface. The app keeps track of the number of rolls and even saves the lowest number of rolls to local storage so that players can challenge themselves to beat their previous records. The code provided in app.jsx demonstrates the core functionality, including rolling the dice, holding them in place, and checking for a winning condition when all dice show the same value. It also includes a confetti animation to celebrate a successful "Tenzies" roll. This app provides an enjoyable gaming experience and encourages players to aim for the best roll count.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+
+In the process of building this React app for "Tenzies," I gained valuable experience in utilizing the useState and useEffect hooks to efficiently manage the application's state and update it in response to user interactions. Additionally, I deepened my understanding of CSS by implementing visual enhancements, such as displaying realistic dots on the dice. These lessons have not only improved my React skills but also expanded my knowledge of front-end development, making me more proficient in creating dynamic and visually appealing web applications.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Bug-Tracker Full Stack App:** (https://github.com/deanp04/bug-tracker-app-full-stack)
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Restaurant Menu Explorer:** (https://github.com/deanp04/restaurant-menu-explorer)
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Client-Side Star Wars API:** (https://github.com/deanp04/client-side-star-wars-api)
