@@ -16,8 +16,8 @@ In this project, I utilized React's useState and useEffect hooks to manage the g
 
 In the process of building this React app for "Tenzies," I gained valuable experience in utilizing the useState and useEffect hooks to efficiently manage the application's state and update it in response to user interactions. Additionally, I deepened my understanding of CSS by implementing visual enhancements, such as displaying realistic dots on the dice. These lessons have not only improved my React skills but also expanded my knowledge of front-end development, making me more proficient in creating dynamic and visually appealing web applications.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## More projects:
+Take a look at these other projects that I have in my own portfolio:
 
 **Bug-Tracker Full Stack App:** (https://github.com/deanp04/bug-tracker-app-full-stack)
 
