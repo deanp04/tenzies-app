@@ -1,13 +1,13 @@
 # My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** https://tenzies-react-patterson.netlify.app/ 
+![image](https://github.com/deanp04/tenzies-app/assets/127463309/1f5238e5-1637-467e-830c-f6479a10c7be)
 
-![alt tag](http://placecorgi.com/1200/650)
+**Link to project:** https://tenzies-react-patterson.netlify.app/ 
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript, React, 
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
